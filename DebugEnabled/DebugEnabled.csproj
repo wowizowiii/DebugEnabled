@@ -45,7 +45,7 @@
     <ItemGroup>
         <PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.3" IncludeAssets="build" PrivateAssets="all"/>
         <PackageReference Include="BepInEx.Core" Version="5.*" IncludeAssets="compile" PrivateAssets="all"/>
-        <PackageReference Include="UnityEngine.Modules" Version="6000.0.43" IncludeAssets="compile" PrivateAssets="all"/>
+        <PackageReference Include="UnityEngine.Modules" Version="6000.2.8" IncludeAssets="compile" PrivateAssets="all"/>
     </ItemGroup>
 
     <!-- Game Assemblies -->
