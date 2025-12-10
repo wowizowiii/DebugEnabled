@@ -11,7 +11,7 @@ public class DebugEnabled : BaseUnityPlugin
     public const string PluginGUID = "AetharNet.Mods.ZumbiBlocks2.DebugEnabled";
     public const string PluginAuthor = "wowi";
     public const string PluginName = "DebugEnabled";
-    public const string PluginVersion = "0.1.0";
+    public const string PluginVersion = "0.2.0";
 
     internal new static ManualLogSource Logger;
 
